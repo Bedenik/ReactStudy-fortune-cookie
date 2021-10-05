@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.bisc{
+    width: 260px;
+    height: 240px;
+    margin-top: 40px;
+}
+.textokotowaru{
+    font-size: 30px;
+    background-color: palevioletred;
+    color: orange;
+    border-style: solid;
+    border-color: black;
+}

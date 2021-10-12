@@ -2,7 +2,8 @@
 # Sobre o projeto 🥠
 
 Fortune cookie site with Japanese phrases.
-Site de abrir biscoito da sorte com frases em japones 
+
+Site de abrir biscoito da sorte com frases em japones.
 
 ## Front End
 - ReactJS
